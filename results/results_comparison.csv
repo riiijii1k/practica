@@ -1,0 +1,4 @@
+Модель,Precision@3
+MiniLM-L12-v2,0.68
+MPNet-base-v2,0.84
+E5-small,0.96
